@@ -11,6 +11,10 @@ body #wall div+#tag-2 {
   display: none;
 }
 
-*#wall div#tag-4 {
+#wall div#tag-4 {
+  display: none;
+}
+
+div#wall div#parent div#tag-5.slick {
   display: none;
 }
